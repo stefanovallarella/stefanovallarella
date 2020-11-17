@@ -1,6 +1,23 @@
-### Hi there 👋
+# ¡Hola!👋 soy **Stefano Vallarella**.
+
+## ✨ Full Stack Developer apasionado por la tecnología.  
+
+- 👨‍💻 Java y Android Studio básico de modo autodidacta.
+- 🎓 Me capacité en *Digital House* como NodeJS Full Stack Developer.
+- 🤓 Siempre aprendiendo cosas nuevas.
+-  📍 De Rosario, Argentina. 
+
+## 🪐 Redes
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/stefanovallarella/)
+- [![GitHub](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/stefanovallarella)
+- 🌎 [Stefano Vallarella](https://stefanovallarella.com.ar/)
+
+
+
+
 
 <!--
+
 **stefanovallarella/stefanovallarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
