@@ -2,7 +2,7 @@
 
 ## ✨ Full Stack Developer apasionado por la tecnología.  
 
-- 👨‍💻 Java y Android Studio básico de modo autodidacta.
+- 👨‍💻 Java y Android Studio nivel básico de modo autodidacta.
 - 🎓 Me capacité en *Digital House* como NodeJS Full Stack Developer.
 - 🤓 Siempre aprendiendo cosas nuevas.
 -  📍 De Rosario, Argentina. 
