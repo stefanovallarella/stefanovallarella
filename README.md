@@ -1,6 +1,6 @@
 # ¡Hola!👋 soy **Stefano Vallarella**.
 
-## ✨ Full Stack Developer apasionado por la tecnología.  
+## ✨ Full Stack Developer.  
 
 - 👨‍💻 Java y Android Studio nivel básico de modo autodidacta.
 - 🎓 Me capacité en *Digital House* como NodeJS Full Stack Developer.
