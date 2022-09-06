@@ -12,7 +12,7 @@
 - 🎓  Trabajo con **VueJS, NuxtJS, TypeScript, ReactJs** y más.
 - :seedling:  Desarrollando API's con **Node.js, Sequelize, SQL**.
 - 🏠  De Rosario, Argentina. 
-- 
+
 <br/>
 
 #### ⚡ Some skills
