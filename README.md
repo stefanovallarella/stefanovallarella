@@ -1,16 +1,19 @@
 # ¡Hola!👋 soy **Stefano Vallarella**.
 
-## ✨ Full Stack Developer  
 
-- 👨‍💻 Java y Android Studio nivel básico de modo autodidacta.
-- 🎓 Me capacité en *Digital House* como NodeJS Full Stack Developer.
-- 🤓 Siempre aprendiendo cosas nuevas.
-- 🏠 De Rosario, Argentina. 
 
-## 🪐 Redes
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/stefanovallarella/)
-- [![GitHub](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/stefanovallarella)
-- 🌎 [Stefano Vallarella](https://stefanovallarella.com.ar/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/stefanovallarella/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/stefanovallarella)
+🌎 [Stefano Vallarella](https://stefanovallarella.com.ar/)
+
+
+### ✨ SSR Frontend Developer  
+
+- 👨‍💻  Actualmente Fullstack en [EducaciónIT](http://educacionit.com)
+- 🎓  Trabajo con VueJS, NuxtJS, TypeScript, ReactJs y más.
+- :seedling:  Desarrollando API's con Node.js, Sequelize, SQL.
+- 🏠  De Rosario, Argentina. 
+
 
 
 
