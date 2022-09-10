@@ -6,7 +6,7 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/stefanovallarella)&nbsp;&nbsp;
 🌎 [Stefano Vallarella](https://stefanovallarella.com.ar/)
 
-### ✨ SSR Frontend Developer  
+### SSR Frontend Developer  
 
 - 👨‍💻  Actualmente Fullstack en **[EducaciónIT](http://educacionit.com)**
 - 🎓  Trabajo con **VueJS, NuxtJS, TypeScript, ReactJs** y más.
