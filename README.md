@@ -6,11 +6,11 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/stefanovallarella)&nbsp;&nbsp;
 🌎 [Stefano Vallarella](https://stefanovallarella.com.ar/)
 
-### SSR Frontend Developer  
+### SSR Fullstack Developer  
 
-- 👨‍💻  Actualmente Fullstack en **[EducaciónIT](http://educacionit.com)**
-- 🎓  Trabajo con **VueJS, NuxtJS, TypeScript, ReactJs** y más.
-- :seedling:  Desarrollando API's con **Node.js, Sequelize, SQL**.
+- 👨‍💻  Actualmente Fullstack en **[Navent](https://navent.com/)**
+- 🎓  Trabajo con **VueJS, NuxtJS, TypeScript, ReactJs, Android Kotlin** y más.
+- :seedling:  Desarrollando Aplicaciones Nativas Android en Kotlin.
 - 🏠  De Rosario, Argentina. 
 
 <br/>
@@ -32,6 +32,10 @@
 
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+![](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 	
 
 	
