@@ -9,7 +9,7 @@
 ### SSR Fullstack Developer  
 
 - 👨‍💻  Actualmente Fullstack en **[Navent](https://navent.com/)**
-- 🎓  Trabajo con **VueJS, NuxtJS, TypeScript, ReactJs, Android Kotlin** y más.
+- 🎓  Trabajo con **VueJS, NuxtJS, TypeScript, ReactJs, React Native, Android Kotlin** y más.
 - :seedling:  Desarrollando Aplicaciones Nativas Android en Kotlin.
 - 🏠  De Rosario, Argentina. 
 
