@@ -6,11 +6,11 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/stefanovallarella)&nbsp;&nbsp;
 🌎 [Stefano Vallarella](https://stefanovallarella.com.ar/)
 
-### SSR Fullstack Developer  
+### Front End Developer 
 
-- 👨‍💻  Actualmente Fullstack en **[Navent](https://navent.com/)**
-- 🎓  Trabajo con **VueJS, NuxtJS, TypeScript, ReactJs, React Native, Android Kotlin** y más.
-- :seedling:  Desarrollando Aplicaciones Nativas Android en Kotlin.
+- 👨‍💻  Actualmente Front End Mobile Developer en **[Navent](https://navent.com/)**
+- 🎓  Trabajo con **VueJS, NuxtJS, TypeScript, ReactJs, Nextjs, React Native, Android Kotlin** y más.
+- :seedling:  Desarrollando Aplicaciones Nativas Android en Kotlin y en React Native.
 - 🏠  De Rosario, Argentina. 
 
 <br/>
