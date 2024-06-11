@@ -8,9 +8,9 @@
 
 ### Front End Developer 
 
-- 👨‍💻  Actualmente Front End Mobile Developer en **[Navent](https://navent.com/)**
+- 👨‍💻  Actualmente Software Engineer Developer en **[KTBlack]()**
 - 🎓  Trabajo con **VueJS, NuxtJS, TypeScript, ReactJs, Nextjs, React Native, Android Kotlin** y más.
-- :seedling:  Desarrollando Aplicaciones Nativas Android en Kotlin y en React Native.
+- :seedling:  Desarrollando Aplicaciones en React & Typescript.
 - 🏠  De Rosario, Argentina. 
 
 <br/>
